@@ -1,4 +1,6 @@
 # Departmental Store P&L Data Analysis
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/8e109456-7150-4040-90e9-c969f94778fd" />
+
 
 ## Project Overview
 
@@ -167,6 +169,7 @@ Activities included:
 * Preparing datasets for reporting
 
 ### 3. Data Modeling
+<img width="634" height="331" alt="Image" src="https://github.com/user-attachments/assets/0c7c984a-4b83-4e27-80e0-9948a3120b4b" />
 
 A **Star Schema** model was implemented.
 
@@ -310,6 +313,22 @@ The final Power BI dashboard delivers:
 ✔ Regional Sales Analysis
 
 ✔ Executive-Level KPI Monitoring
+
+---
+## Dashboard Screenshorts
+<img width="631" height="363" alt="Image" src="https://github.com/user-attachments/assets/840738e9-9124-4061-b007-ec251fe3ce89" />
+
+---
+<img width="630" height="365" alt="Image" src="https://github.com/user-attachments/assets/6d2c58fa-7ecd-4d25-bcf0-becd0053dce6" />
+
+---
+<img width="634" height="365" alt="Image" src="https://github.com/user-attachments/assets/c3f5c7f5-278c-4357-a0f5-4f35d83b787d" />
+
+---
+<img width="632" height="365" alt="Image" src="https://github.com/user-attachments/assets/a2709136-1bfa-46ee-89bb-fdf7fe59075b" />
+
+---
+<img width="631" height="365" alt="Image" src="https://github.com/user-attachments/assets/e4aad608-71f0-44d5-9713-803ce1c83803" />
 
 ---
 
